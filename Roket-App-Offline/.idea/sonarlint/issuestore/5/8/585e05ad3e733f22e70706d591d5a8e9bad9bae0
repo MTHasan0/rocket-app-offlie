@@ -1,0 +1,21 @@
+
+=squid:S16594"!Declare "pin" on a separate line.(è¸Ñ ıÿÿÿÿ
+dsquid:S1192Œ"GDefine a constant instead of duplicating this literal "smaile" 5 times.(Şò†ÿÿÿÿÿ
+asquid:S3252—"IUse static access with "com.hsalf.smilerating.BaseRating" for "TERRIBLE".(ô–³Ì
+\squid:S3252‹"DUse static access with "com.hsalf.smilerating.BaseRating" for "BAD".(è ğ¿
+@squid:S16594"$Declare "amount" on a separate line.(è¸Ñ ıÿÿÿÿ
+]squid:S3252”"EUse static access with "com.hsalf.smilerating.BaseRating" for "OKAY".(˜•ùÚ
+nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹³ƒ‹øÿÿÿÿ
+hsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+™squid:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”ş¿’
+Bsquid:S00108»")Either remove or fill this block of code.(å¥‡
+osquid:S14502"SRemove the "send" field and declare it as a local variable in the relevant methods.(ßÜ®šûÿÿÿÿ
+gsquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¢¥
+]squid:S3252"EUse static access with "com.hsalf.smilerating.BaseRating" for "GOOD".(Ö©èÖ
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(±©Ì£
+@squid:S16591"$Declare "getPin" on a separate line.(ËÆëæùÿÿÿÿ
+™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”ş¿’
+Jsquid:S1135©"2Complete the task associated to this TODO comment.(êÇá
+Q"squid:SwitchLastCaseIsDefaultCheckŠ""Add a default case to this switch.(Õ³œş
+^squid:S3252‘"FUse static access with "com.hsalf.smilerating.BaseRating" for "GREAT".(™ÌÇÀ
+osquid:S14503"SRemove the "acNo" field and declare it as a local variable in the relevant methods.(²‰Ôóÿÿÿÿÿ

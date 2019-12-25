@@ -1,0 +1,14 @@
+
+ssquid:S1450"WRemove the "teletalk" field and declare it as a local variable in the relevant methods.(¹í«—ûÿÿÿÿ
+9squid:S1659""Declare "acNo" on a separate line.(Ÿ‡ð¤
+nsquid:S1450"WRemove the "acNumber" field and declare it as a local variable in the relevant methods.(¼Æ€ç
+qsquid:S1450"URemove the "airtel" field and declare it as a local variable in the relevant methods.(¹í«—ûÿÿÿÿ
+Bsquid:S1659"&Declare "teletalk" on a separate line.(¹í«—ûÿÿÿÿ
+dsquid:S11921"HDefine a constant instead of duplicating this literal "simName" 5 times.(ÿÀµ¥ûÿÿÿÿ
+osquid:S1450"SRemove the "robi" field and declare it as a local variable in the relevant methods.(¹í«—ûÿÿÿÿ
+>squid:S1659""Declare "robi" on a separate line.(¹í«—ûÿÿÿÿ
+msquid:S1450"QRemove the "gp" field and declare it as a local variable in the relevant methods.(¹í«—ûÿÿÿÿ
+<squid:S1659" Declare "gp" on a separate line.(¹í«—ûÿÿÿÿ
+jsquid:S1192"NDefine a constant instead of duplicating this literal "getOptionName" 6 times.(¬ú”Òûÿÿÿÿ
+usquid:S1450"YRemove the "banglalink" field and declare it as a local variable in the relevant methods.(¹í«—ûÿÿÿÿ
+Dsquid:S1659"(Declare "banglalink" on a separate line.(¹í«—ûÿÿÿÿ

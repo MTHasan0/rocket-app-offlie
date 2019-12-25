@@ -1,0 +1,9 @@
+
+Nsquid:S1481'"2Remove this unused "tvPhoneNumber" local variable.(ñ€ÅÖüÿÿÿÿ
+asquid:S11550">Use isEmpty() to check whether the collection is empty or not.(·¦åûùÿÿÿÿ8ï«è¸ó-
+Jsquid:S1481$"3Remove this unused "ivContactImage" local variable.(Â‹¶
+Isquid:S1481&"2Remove this unused "tvContactName" local variable.(³¥ÁÛ
+\squid:S11553">Use isEmpty() to check whether the collection is empty or not.(ã–µó8ï«è¸ó-
+Fsquid:S001080")Either remove or fill this block of code.(·¦åûùÿÿÿÿ
+Asquid:S1659%"%Declare "layout1" on a separate line.(õàÊşÿÿÿÿ
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÇŠƒü

@@ -1,0 +1,20 @@
+
+^squid:S3252˜"FUse static access with "com.hsalf.smilerating.BaseRating" for "GREAT".(™ÌÇÀ
+Qsquid:MissingDeprecatedCheck¸"(Add the missing @deprecated Javadoc tag.(À½ï†
+Ksquid:S1481¼".Remove this unused "simSelect" local variable.(’„³Æýÿÿÿÿ
+squid:S14503"cRemove the "sendButtonForBalance" field and declare it as a local variable in the relevant methods.(€€§Óÿÿÿÿÿ
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(±©Ì£
+csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ÁÖû
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹³ƒ‹øÿÿÿÿ
+asquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(ÓðÂ>
+Msquid:S1133¸"5Do not forget to remove this deprecated code someday.(À½ï†
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck‘""Add a default case to this switch.(Õ³œþ
+]squid:S3252•"EUse static access with "com.hsalf.smilerating.BaseRating" for "GOOD".(Ö©èÖ
+dsquid:S1192“"GDefine a constant instead of duplicating this literal "smaile" 5 times.(Þò†ÿÿÿÿÿ
+\squid:S3252’"DUse static access with "com.hsalf.smilerating.BaseRating" for "BAD".(è ð¿
+asquid:S3252ž"IUse static access with "com.hsalf.smilerating.BaseRating" for "TERRIBLE".(ô–³Ì
+Jsquid:S1135¯"2Complete the task associated to this TODO comment.(êÇá
+lsquid:S00100Ž"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÖÏ…ùÿÿÿÿ
+]squid:S3252›"EUse static access with "com.hsalf.smilerating.BaseRating" for "OKAY".(˜•ùÚ
+Zsquid:S1854¼"=Remove this useless assignment to local variable "simSelect".(’„³Æýÿÿÿÿ
